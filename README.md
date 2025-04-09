@@ -32,7 +32,7 @@ framework Symfony w PHP, baza danych: SQLite
 
 :white_check_mark: 5.0 panel administracyjny z mockowanym logowaniem
 
-**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/)
+**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/7284992fd0e8076aec650afde55b473a3865562c)
 
 **Kod**: [PHP](https://github.com/Elyrwag/po/tree/main/symfony-php)
 
