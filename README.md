@@ -34,5 +34,5 @@ framework Symfony w PHP, baza danych: SQLite
 
 **Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/7284992fd0e8076aec650afde55b473a3865562c)
 
-**Kod**: [PHP](https://github.com/Elyrwag/po/tree/main/symfony-php)
+**Kod**: [symfony-php](https://github.com/Elyrwag/po/tree/main/symfony-php)
 
