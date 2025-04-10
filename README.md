@@ -51,7 +51,7 @@ framework Spring Boot w Kotlinie
 
 :white_check_mark: 5.0 do wyboru również wersja Singletona w wersji lazy
 
-**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/)
+**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/c3ab1c1bfb263d9aa76deb0b705c8ffa1f579f5e)
 
 **Kod**: [spring-kotlin](https://github.com/Elyrwag/po/tree/main/spring-kotlin)
 
