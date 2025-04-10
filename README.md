@@ -36,3 +36,22 @@ framework Symfony w PHP, baza danych: SQLite
 
 **Kod**: [symfony-php](https://github.com/Elyrwag/po/tree/main/symfony-php)
 
+
+### Zadanie 3: Kotlin
+
+framework Spring Boot w Kotlinie
+
+:white_check_mark: 3.0 kontroler wraz z danymi wyświetlanymi z listy na endpoint’cie w formacie JSON
+
+:white_check_mark: 3.5 klasa do autoryzacji (mock) jako Singleton w formie eager
+
+:white_check_mark: 4.0 obsługiwanie danych autoryzacji przekazywanych przez użytkownika
+
+:white_check_mark: 4.5 wstrzykiwanie Singletonu do głównej klasy via @Autowired
+
+:white_check_mark: 5.0 do wyboru również wersja Singletona w wersji lazy
+
+**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/)
+
+**Kod**: [spring-kotlin](https://github.com/Elyrwag/po/tree/main/spring-kotlin)
+
