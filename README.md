@@ -55,3 +55,22 @@ framework Spring Boot w Kotlinie
 
 **Kod**: [spring-kotlin](https://github.com/Elyrwag/po/tree/main/spring-kotlin)
 
+
+### Zadanie 4: Go
+
+framework Echo w Go, baza danych: SQLite, serwis zewnętrzny: OpenWeatherMap
+
+:white_check_mark: 3.0 aplikacja, która posiada kontroler Pogody oraz pozwala na pobieranie danych o pogodzie
+
+:white_check_mark: 3.5 model Pogoda wykorzystując gorm
+
+:white_check_mark: 4.0 klasa proxy, która pobierze dane z serwisu zewnętrznego podczas zapytania do naszego kontrolera
+
+:white_check_mark: 4.5 zapisanie pobranych danych z zewnątrz do bazy danych
+
+:white_check_mark: 5.0 rozszerzenie endpointu na więcej niż jedną lokalizację
+
+**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/)
+
+**Kod**: [echo-go](https://github.com/Elyrwag/po/tree/main/echo-go)
+
