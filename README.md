@@ -70,7 +70,7 @@ framework Echo w Go, baza danych: SQLite, serwis zewnętrzny: OpenWeatherMap
 
 :white_check_mark: 5.0 rozszerzenie endpointu na więcej niż jedną lokalizację
 
-**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/)
+**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/eb7edd66b22754a8490269e4d6b2dbe7c054f7e8)
 
 **Kod**: [echo-go](https://github.com/Elyrwag/po/tree/main/echo-go)
 
