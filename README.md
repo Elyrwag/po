@@ -91,7 +91,7 @@ Frontend: React, Backend: Go
 
 :white_check_mark: 5.0 axios oraz nagłówki pod CORS
 
-**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/)
+**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/9d0bc9941320c74efde4a529ffeb3a9eed0b1f1b)
 
 **Kod**: [shop-app](https://github.com/Elyrwag/po/tree/main/shop-app)
 
