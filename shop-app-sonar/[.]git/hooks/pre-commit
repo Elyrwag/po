@@ -1,0 +1,27 @@
+#!/bin/sh
+
+echo "Running ESLint for Frontend..."
+
+cd client
+
+if ! npx eslint . ; then
+  echo "ESLint found errors. Commit aborted."
+  exit 1
+fi
+
+cd ..
+
+echo "Running golangci-lint for Backend..."
+
+cd server
+
+if ! golangci-lint run ; then
+  echo "golangci-lint found errors. Commit aborted."
+  exit 1
+fi
+
+cd ..
+
+echo "All linters passed. Committing..."
+exit 0
+

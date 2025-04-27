@@ -95,3 +95,22 @@ Frontend: React, Backend: Go
 
 **Kod**: [shop-app](https://github.com/Elyrwag/po/tree/main/shop-app)
 
+
+### Zadanie 6: Sonar
+
+:white_check_mark: 3.0 ESLint do kodu aplikacji klienckiej w hookach gita
+
+:white_check_mark: 3.5 wyeliminowane wszystkie błędy typu "Bugs" w kodzie w Sonarze (kod aplikacji klienckiej)
+
+:white_check_mark: 4.0 wyeliminowane wszystkie błędy typu "Code Smells" w kodzie w Sonarze (kod aplikacji klienckiej)
+
+:white_check_mark: 4.5 wyeliminowane wszystkie błędy typu "Vulnerabilities" i "Security Hotspots" w kodzie w Sonarze (kod aplikacji klienckiej)
+
+:white_check_mark: 5.0 duplikaty kodu zredukowane do 0%
+
+**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/)
+
+**Kod**: 
+- [folder shop-app-sonar](https://github.com/Elyrwag/po/tree/main/shop-app-sonar)
+- [repozytorium shop-app-sonar](https://github.com/Elyrwag/shop-app-sonar)
+
