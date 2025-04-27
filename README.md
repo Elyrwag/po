@@ -108,7 +108,7 @@ Frontend: React, Backend: Go
 
 :white_check_mark: 5.0 duplikaty kodu zredukowane do 0%
 
-**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/)
+**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/50d2dc2e3e327aa311a0a8df19e31f1ad34029f5)
 
 **Kod**: 
 - [folder shop-app-sonar](https://github.com/Elyrwag/po/tree/main/shop-app-sonar)
