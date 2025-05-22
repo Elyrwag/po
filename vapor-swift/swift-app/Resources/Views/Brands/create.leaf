@@ -1,0 +1,11 @@
+#extend("index"):
+    #export("content"):
+        <h1>Dodaj nową markę</h1>
+        <form method="POST" action="/brands/create">
+            <label for="name">Nazwa:</label>
+            <input type="text" id="name" name="name" required>
+
+            <button type="submit">Dodaj markę</button>
+        </form>
+    #endexport
+#endextend

@@ -1,0 +1,13 @@
+#extend("index"):
+    #export("content"):
+        <h1>Marki</h1>
+        <ul>
+            #for(brand in brands):
+                <li>
+                    <a href="/brands/#(brand.id)">#(brand.name)</a>
+                </li>
+            #endfor
+        </ul>
+        <a href="/brands/create">Dodaj nową markę</a>
+    #endexport
+#endextend

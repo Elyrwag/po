@@ -1,0 +1,11 @@
+#extend("index"):
+    #export("content"):
+        <p>#(brand.name)</p>
+        <div>
+            <a href="/brands/#(brand.id)/edit">Edytuj</a>
+        </div>
+        <form method="POST" action="/brands/#(brand.id)/delete">
+            <button type="submit">Usuń</button>
+        </form>
+    #endexport
+#endextend

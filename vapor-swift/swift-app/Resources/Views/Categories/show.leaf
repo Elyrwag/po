@@ -1,0 +1,11 @@
+#extend("index"):
+    #export("content"):
+        <p>#(category.name)</p>
+        <div>
+            <a href="/categories/#(category.id)/edit">Edytuj</a>
+        </div>
+        <form method="POST" action="/categories/#(category.id)/delete">
+            <button type="submit">Usuń</button>
+        </form>
+    #endexport
+#endextend

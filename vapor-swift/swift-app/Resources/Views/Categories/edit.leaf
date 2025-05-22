@@ -1,0 +1,11 @@
+#extend("index"):
+    #export("content"):
+        <h1>Edytuj kategorię</h1>
+        <form method="POST" action="/categories/#(category.id)/edit">
+            <label for="name">Nazwa:</label>
+            <input type="text" id="name" name="name" value="#(category.name)" required>
+
+            <button type="submit">Zapisz zmiany</button>
+        </form>
+    #endexport
+#endextend

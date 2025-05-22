@@ -1,0 +1,13 @@
+#extend("index"):
+    #export("content"):
+        <h1>Produkty</h1>
+        <ul>
+            #for(product in products):
+                <li>
+                    <a href="/products/#(product.id)">#(product.name)</a>
+                </li>
+            #endfor
+        </ul>
+        <a href="/products/create">Dodaj nowy produkt</a>
+    #endexport
+#endextend

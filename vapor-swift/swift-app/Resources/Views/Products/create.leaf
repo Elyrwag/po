@@ -1,0 +1,28 @@
+#extend("index"):
+    #export("content"):
+        <h1>Dodaj nowy produkt</h1>
+        <form method="POST" action="/products/create">
+            <label for="name">Nazwa:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="price">Cena:</label>
+            <input type="number" id="price" name="price" step=0.01 required>
+
+            <label for="categoryID">Kategoria:</label>
+            <select id="categoryID" name="categoryID" required>
+                #for(category in categories):
+                    <option value="#(category.id)">#(category.name)</option>
+                #endfor
+            </select>
+
+            <label for="brandID">Marka:</label>
+            <select id="brandID" name="brandID" required>
+                #for(brand in brands):
+                    <option value="#(brand.id)">#(brand.name)</option>
+                #endfor
+            </select>
+
+            <button type="submit">Dodaj produkt</button>
+        </form>
+    #endexport
+#endextend

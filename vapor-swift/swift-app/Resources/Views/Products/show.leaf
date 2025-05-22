@@ -1,0 +1,14 @@
+#extend("index"):
+    #export("content"):
+        <h1>#(product.name)</h1>
+        <p>Cena: #(product.price)</p>
+        <p>Kategoria: #(product.category.name)</p>
+        <p>Marka: #(product.brand.name)</p>
+        <div>
+            <a href="/products/#(product.id)/edit">Edytuj</a>
+        </div>
+        <form method="POST" action="/products/#(product.id)/delete">
+            <button type="submit">Usuń</button>
+        </form>
+    #endexport
+#endextend

@@ -114,3 +114,41 @@ Frontend: React, Backend: Go
 - [folder shop-app-sonar](https://github.com/Elyrwag/po/tree/main/shop-app-sonar)
 - [repozytorium shop-app-sonar](https://github.com/Elyrwag/shop-app-sonar)
 
+
+### Zadanie 7: Swift
+
+framework Vapor w Swift, silnik szablonów: Leaf, ORM: Fluent, pamięć podręczna: Redis, baza danych: SQLite
+
+Trzy modele: Produkty, Kategorie, Marki
+
+:white_check_mark: 3.0 kontroler i model dla Produktów zgodny z CRUD w ORM Fluent
+
+:white_check_mark: 3.5 szablony w Leaf
+
+:white_check_mark: 4.0 kontroler i model dla Kategorii wraz z relacją
+
+:white_check_mark: 4.5 wykorzystanie Redis do przechowywania danych
+
+5.0 wrzucenie aplikacji na heroku
+
+**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/)
+
+**Kod**: [vapor-swift](https://github.com/Elyrwag/po/tree/main/vapor-swift)
+
+
+### Zadanie 8: Testy
+
+3.0 30 przypadków testowych w Pythonie w WebDriverze
+
+3.5 rozszerzenie testów funkcjonalnych, aby zawierały minimum 100 asercji
+
+4.0 testy jednostkowe z minimum 100 asercjami
+
+4.5 testy API pokrywające wszystkie endpointy z minimum jednym scenariuszem negatywnym per endpoint
+
+5.0 uruchomienie testów funkcjonalnych na Browserstacku na urządzeniu mobilnym
+
+**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/)
+
+**Kod**: [](https://github.com/Elyrwag/po/tree/main/)
+

@@ -1,0 +1,13 @@
+#extend("index"):
+    #export("content"):
+        <h1>Kategorie</h1>
+        <ul>
+            #for(category in categories):
+                <li>
+                    <a href="/categories/#(category.id)">#(category.name)</a>
+                </li>
+            #endfor
+        </ul>
+        <a href="/categories/create">Dodaj nową kategorię</a>
+    #endexport
+#endextend

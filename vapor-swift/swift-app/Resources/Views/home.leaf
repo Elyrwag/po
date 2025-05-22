@@ -1,0 +1,5 @@
+#extend("index"):
+    #export("content"):
+        <h1>Witaj na stronie głównej</h1>
+    #endexport
+#endextend
