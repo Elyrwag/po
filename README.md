@@ -131,7 +131,7 @@ Trzy modele: Produkty, Kategorie, Marki
 
 5.0 wrzucenie aplikacji na heroku
 
-**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/)
+**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/b9ac4409dc5de6ad3c97541dc511bded3126658d)
 
 **Kod**: [vapor-swift](https://github.com/Elyrwag/po/tree/main/vapor-swift)
 
