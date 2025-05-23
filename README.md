@@ -138,17 +138,17 @@ Trzy modele: Produkty, Kategorie, Marki
 
 ### Zadanie 8: Testy
 
-3.0 30 przypadków testowych w Pythonie w WebDriverze
+:white_check_mark: 3.0 30 przypadków testowych w Pythonie w WebDriverze
 
-3.5 rozszerzenie testów funkcjonalnych, aby zawierały minimum 100 asercji
+:white_check_mark: 3.5 rozszerzenie testów funkcjonalnych, aby zawierały minimum 100 asercji
 
-4.0 testy jednostkowe z minimum 100 asercjami
+:white_check_mark: 4.0 testy jednostkowe z minimum 100 asercjami
 
-4.5 testy API pokrywające wszystkie endpointy z minimum jednym scenariuszem negatywnym per endpoint
+:white_check_mark: 4.5 testy API pokrywające wszystkie endpointy z minimum jednym scenariuszem negatywnym per endpoint
 
-5.0 uruchomienie testów funkcjonalnych na Browserstacku na urządzeniu mobilnym
+:white_check_mark: 5.0 uruchomienie testów funkcjonalnych na Browserstacku na urządzeniu mobilnym
 
 **Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/)
 
-**Kod**: [](https://github.com/Elyrwag/po/tree/main/)
+**Kod**: [shop-app-tests](https://github.com/Elyrwag/po/tree/main/shop-app-tests)
 
