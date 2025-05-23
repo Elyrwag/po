@@ -148,7 +148,7 @@ Trzy modele: Produkty, Kategorie, Marki
 
 :white_check_mark: 5.0 uruchomienie testów funkcjonalnych na Browserstacku na urządzeniu mobilnym
 
-**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/)
+**Commit zbiorczy**: [commit 5 i poniżej](https://github.com/Elyrwag/po/commit/816cbfeb2dce1bcc89a2ac9a7ddaeef147096bb7)
 
 **Kod**: [shop-app-tests](https://github.com/Elyrwag/po/tree/main/shop-app-tests)
 
