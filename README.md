@@ -167,7 +167,7 @@ Aplikacja w Kotlinie
 
 5.0 logowanie i rejestracja via Oauth2
 
-**Commit zbiorczy**: [commit 4 i poniżej](https://github.com/Elyrwag/po/commit/)
+**Commit zbiorczy**: [commit 4 i poniżej](https://github.com/Elyrwag/po/commit/4b756368ecaa441e75071bef4b81aff8ddcdbb20)
 
 **Kod**: [shopping-app](https://github.com/Elyrwag/po/tree/main/shopping-app)
 
