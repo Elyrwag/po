@@ -152,3 +152,22 @@ Trzy modele: Produkty, Kategorie, Marki
 
 **Kod**: [shop-app-tests](https://github.com/Elyrwag/po/tree/main/shop-app-tests)
 
+
+### Zadanie 9: Mobile first (Android)
+
+Aplikacja w Kotlinie
+
+:white_check_mark: 3.0 listy kategorii i produktów
+
+:white_check_mark: 3.5 widoki koszyka, kategorii i produktów
+
+:white_check_mark: 4.0 baza danych w Realm
+
+4.5 płatności w Stripe
+
+5.0 logowanie i rejestracja via Oauth2
+
+**Commit zbiorczy**: [commit 4 i poniżej](https://github.com/Elyrwag/po/commit/)
+
+**Kod**: [shopping-app](https://github.com/Elyrwag/po/tree/main/shopping-app)
+
